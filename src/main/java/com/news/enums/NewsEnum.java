@@ -30,8 +30,7 @@ public class NewsEnum {
 		public String getName() {
 			return name;
 		}
-		
-		
+
 	}
 	
 	public static enum SUBSTANCE {
@@ -65,9 +64,6 @@ public class NewsEnum {
 			return name;
 		}
 		
-		
-		
 	}
-	
 	
 }
